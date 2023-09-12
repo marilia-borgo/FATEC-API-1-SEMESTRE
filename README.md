@@ -61,3 +61,11 @@ Para acessar a documentação do projeto, fique a vontade para ver nosso site.
     </tr>
 
 </table>
+
+#### Como rodar o projeto?
+No terminal, dentro da pasta do projeto, execute:
+```
+python3 wgsi.py
+```
+Depois acesse a url:
+localhost:8080
